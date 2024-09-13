@@ -14,7 +14,7 @@ eval(function(p, a, c, k, e, r) {
             return '\\w+'
         }
         ;
-        c = 1 
+        c = 1
     }
     ;while (c--)
         if (k[c])
